@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "test": "node ./node_modules/has-symbols/index.mjs",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
